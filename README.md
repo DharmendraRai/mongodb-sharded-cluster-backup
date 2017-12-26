@@ -1,2 +1,3 @@
 # mongodb-sharded-cluster-backup
-To create reliable and consistence backups of a sharded cluster
+
+consistent backup of all components of a sharded cluster and store the backup on goggle cloud.
